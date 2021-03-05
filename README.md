@@ -2,7 +2,7 @@
 
 # Collection of config parsers
 
-All of the parsers are ready for webassambly usage.
+All of the parsers are ready for webassembly usage.
 
 - [x] XML
 - [x] JSON
