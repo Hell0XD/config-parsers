@@ -1,0 +1,5 @@
+[package]
+name = "config-parser"
+version = "0.1.0"
+authors = ["Hell0XD"]
+edition = "2018"
